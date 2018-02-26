@@ -1,6 +1,6 @@
-<img src="image-scaler-background.png" style="max-width: 665px; margin: 0;"/>
-
 # Base Image Scaler
+
+<img src="image-scaler-background.png" style="max-width: 665px; margin: 0;"/>
 
 ### SDRs put a lot of work into outbound messaging to capture the attention of prospects. What if they could... Not do that work?
 
@@ -10,4 +10,4 @@ Dogpatch, of course, productized their work and now offers a demo of Custom Imag
 
 That does seem like a good idea, but we're cheap. So let's do it ourselves.
 
-[Read the notebook here]().
+[Read the notebook here](https://github.com/theianchan/base-image-scaler/blob/master/base-image-scaler.ipynb).
