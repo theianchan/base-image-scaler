@@ -1,5 +1,3 @@
-# Base Image Scaler
-
 <img src="image-scaler-background.png" style="max-width: 665px; margin: 0;"/>
 
 ### SDRs put a lot of work into outbound messaging to capture the attention of prospects. What if they could... Not do that work?
